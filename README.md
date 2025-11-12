@@ -1,3 +1,2 @@
 # tutedudeCourse
-this is about the first assignment of python course from tutedude.
-Assignments
+.py files of both the tasks has been attached along with the outputs. 
